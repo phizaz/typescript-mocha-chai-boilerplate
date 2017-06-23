@@ -1,6 +1,13 @@
 # Typescript - Mocha - Chai Boilerplate
 
 
+## Prerequisites
+
+```
+npm install -g mocha istanbul
+npm install
+```
+
 ## Build
 
 ```
