@@ -1,5 +1,6 @@
 # Typescript - Mocha - Chai Boilerplate
 
+> Boilerplate for typescript with testing using mocha and chai (this is not intended to be used in production)
 
 ## Prerequisites
 
