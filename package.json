@@ -15,7 +15,5 @@
     "@types/node": "^8.0.1"
   },
   "dependencies": {
-    "fs-extra": "^3.0.1",
-    "lodash": "^4.17.4"
   }
 }
