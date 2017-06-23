@@ -12,7 +12,8 @@
     "@types/chai": "^4.0.0",
     "@types/lodash": "^4.14.66",
     "@types/mocha": "^2.2.41",
-    "@types/node": "^8.0.1"
+    "@types/node": "^8.0.1",
+    "mocha": "^3.4.2"
   },
   "dependencies": {
     "source-map-support": "^0.4.15"
