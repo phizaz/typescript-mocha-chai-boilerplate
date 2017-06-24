@@ -24,4 +24,11 @@ test <dir>
 cover <dir>
 ```
 
-If you cannot `source` just go see the `env` file itself you will have a start.
+Or, manually,
+
+```
+mocha --no-timeouts --recursive --require=source-map-support/register <dir>
+istanbul cover node_modules/mocha/bin/_mocha -- --no-timeouts --recursive --require=source-map-support/register <dir>
+```
+
+You must install `mocha` locally in order to use `istanbul` properly.
